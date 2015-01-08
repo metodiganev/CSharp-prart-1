@@ -1,18 +1,16 @@
-# Introduction-to-Programming-Problem-1
-
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Problem_1.Play_with_Visual_Studio
+namespace Problem_4.Hello_World
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Здравей C#"); 
+            Console.WriteLine("Hello CSharp.vvgfffffffffffv");
         }
     }
 }
