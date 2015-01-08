@@ -10,7 +10,7 @@ namespace Problem_4.Hello_World
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello CSharp.vvgfffffffffffv");
+            Console.WriteLine("Здравей C#");
         }
     }
 }
